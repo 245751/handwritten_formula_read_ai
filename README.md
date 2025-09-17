@@ -6,7 +6,7 @@
 
 ## local環境での動作方法
 
-以下のコマンドはgitcloneを行った後に実行してください。
+以下のコマンドはgit cloneを行った後に実行してください。
 
 ```bash
 pip install -r requirements.txt
