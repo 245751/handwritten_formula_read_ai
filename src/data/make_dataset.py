@@ -586,6 +586,6 @@ def create_voc_dataset(
 # 実行
 
 create_voc_dataset(
-    output_dir="dataset",
-    num_samples=3900,
+    output_dir="sample_dataset",
+    num_samples=10,
 )
